@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    cursor: pointer;
+  }
+  
+  .navbar-ul {
+    list-style-type: none;
+  }
+  
+  .navbar-ul li {
+    padding: 10px;
+    float: left;
+  }
+  
+  .nav-btn {
+    margin: 8px;
+    background-color: rgb(255 101 101);
+    font-family: inherit;
+    border: 0px;
+    font-size: 14px;
+    height: 70%;
+    padding: 8px 10px;
+    cursor: pointer;
+  }
+
+  .nav-btn:hover{
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+    background-color: rgb(253, 82, 82);
+    cursor: pointer;
+  }
