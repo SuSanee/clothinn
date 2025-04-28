@@ -1,20 +1,42 @@
-import React, { useContext } from "react";
+import React, { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import { GlobalContext } from "../../context/GlobalState";
 
 const Navbar = () => {
-  const { cart } = useContext(GlobalContext);
+  const { cart, setSelectedCategory } = useContext(GlobalContext);
+  const [activeTab, setActiveTab] = useState("Home"); // NEW
+
+  const handleCategoryClick = (category, tabName) => {
+    setSelectedCategory(category);
+    setActiveTab(tabName);
+  };
+
   return (
     <div className="navbar">
       <Link to="/">
-        <h2>clothinn</h2>
+        <h2 onClick={() => handleCategoryClick("All", "Home")}>clothinn</h2>
       </Link>
       <ul className="navbar-ul">
-        <li>Womens</li>
-        <li>Mens</li>
-        <li>Clothing</li>
-        <li>Brands</li>
+        <li
+          className={activeTab === "Home" ? "active-tab" : ""}
+          onClick={() => handleCategoryClick("All", "Home")}
+        >
+          Home
+        </li>
+        <li
+          className={activeTab === "Womens" ? "active-tab" : ""}
+          onClick={() => handleCategoryClick("W", "Womens")}
+        >
+          Womens
+        </li>
+        <li
+          className={activeTab === "Mens" ? "active-tab" : ""}
+          onClick={() => handleCategoryClick("M", "Mens")}
+        >
+          Mens
+        </li>
+
         <Link to="/cart">
           <li>
             &#128722;{" "}

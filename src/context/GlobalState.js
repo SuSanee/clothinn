@@ -1,4 +1,4 @@
-import React, { createContext, useReducer } from "react";
+import React, { createContext, useReducer, useState } from "react";
 import AppReducer from "./AppReducer";
 
 const initialState = {
@@ -10,6 +10,8 @@ export const GlobalContext = createContext(initialState);
 
 export const GlobalProvider = ({ children }) => {
   const [state, dispatch] = useReducer(AppReducer, initialState);
+
+  const [selectedCategory, setSelectedCategory] = useState("All");
 
   const addItemToCartList = (item) => {
     dispatch({
@@ -55,6 +57,8 @@ export const GlobalProvider = ({ children }) => {
         clearCart,
         addItemToOrderList,
         removeItemFromOrderList,
+        selectedCategory,
+        setSelectedCategory,
       }}
     >
       {children}

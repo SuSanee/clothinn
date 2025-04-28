@@ -9,6 +9,7 @@
       "saleDiscount": 22,
       "price": 27.33,
       "rating": 3,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1588416681455-3f2ba669371d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -21,6 +22,7 @@
       "saleDiscount": 28,
       "price": 20.96,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1648786222559-7e2c98021df3?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -33,6 +35,7 @@
       "saleDiscount": 22,
       "price": 13.82,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1687825512118-5ee2ddded118?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -45,6 +48,7 @@
       "saleDiscount": 41,
       "price": 43.75,
       "rating": 4,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1630406440709-80170ed7dfbb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -57,6 +61,7 @@
       "saleDiscount": 21,
       "price": 27.9,
       "rating": 4,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1620352409482-ffd8a34d0405?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -69,6 +74,7 @@
       "saleDiscount": 26,
       "price": 56.76,
       "rating": 2,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1720502723973-64f701c4d032?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg"
     },
     {
@@ -81,6 +87,7 @@
       "saleDiscount": 38,
       "price": 77.42,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1649899240929-a19a0dcf02fb?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -93,6 +100,7 @@
       "saleDiscount": 50,
       "price": 47.31,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1542719018-ee28cbdc71ee?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -105,6 +113,7 @@
       "saleDiscount": 24,
       "price": 58.31,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1743870349943-788417629eaf?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -117,6 +126,7 @@
       "saleDiscount": 42,
       "price": 77.64,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1693660043680-d1623cc20a16?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -129,6 +139,7 @@
       "saleDiscount": 10,
       "price": 75.2,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1682771420795-ce25d65eaf49?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -141,6 +152,7 @@
       "saleDiscount": 31,
       "price": 42.75,
       "rating": 4,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1590072453883-aab5a110483e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -153,6 +165,7 @@
       "saleDiscount": 25,
       "price": 16.53,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1647124882878-f7bf5ee7c864?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -165,6 +178,7 @@
       "saleDiscount": 44,
       "price": 76.82,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1496070527953-98faef8b036f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -177,6 +191,7 @@
       "saleDiscount": 21,
       "price": 32.38,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1744838068986-8bd4aae191db?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -189,6 +204,7 @@
       "saleDiscount": 39,
       "price": 66.82,
       "rating": 5,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1660983414551-b3758336be15?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -201,6 +217,7 @@
       "saleDiscount": 13,
       "price": 42.37,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1667829705955-279308e7fc12?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -213,6 +230,7 @@
       "saleDiscount": 46,
       "price": 27.23,
       "rating": 4,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1744535814651-b106bb53026d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -225,6 +243,7 @@
       "saleDiscount": 30,
       "price": 11.2,
       "rating": 4,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1503341733017-1901578f9f1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -237,6 +256,7 @@
       "saleDiscount": 23,
       "price": 49.66,
       "rating": 3,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1648514927118-97428b262590?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -249,6 +269,7 @@
       "saleDiscount": 25,
       "price": 70.76,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1582142306909-195724d33ffc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -261,6 +282,7 @@
       "saleDiscount": 15,
       "price": 52.82,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1561444209-17feef437363?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -273,6 +295,7 @@
       "saleDiscount": 13,
       "price": 16.6,
       "rating": 3,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1659100939529-7008a25e447c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -285,6 +308,7 @@
       "saleDiscount": 12,
       "price": 54.99,
       "rating": 4,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1697319452360-ee47502e39f6?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -297,6 +321,7 @@
       "saleDiscount": 24,
       "price": 19.43,
       "rating": 4,
+      "category": "W",
       "image": "https://plus.unsplash.com/premium_photo-1673977133155-3b738590d58e?q=80&w=1980&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -309,6 +334,7 @@
       "saleDiscount": 13,
       "price": 66.07,
       "rating": 1,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1710423914146-dfd361a169c0?q=80&w=1949&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -321,6 +347,7 @@
       "saleDiscount": 22,
       "price": 38.88,
       "rating": 5,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1542838776-096d877b5aa2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -333,6 +360,7 @@
       "saleDiscount": 31,
       "price": 32.06,
       "rating": 3,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1549062573-35ba0606e938?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -345,6 +373,7 @@
       "saleDiscount": 14,
       "price": 70.11,
       "rating": 3,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1601529492219-6b43936322ae?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -357,6 +386,7 @@
       "saleDiscount": 34,
       "price": 55.11,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1733145821002-8c4b3bfc7d69?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -369,6 +399,7 @@
       "saleDiscount": 22,
       "price": 11.81,
       "rating": 2,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1707765644061-105d0755cf85?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -381,6 +412,7 @@
       "saleDiscount": 25,
       "price": 39.83,
       "rating": 1,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1598857462544-6e70317da2f2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -393,6 +425,7 @@
       "saleDiscount": 29,
       "price": 28.16,
       "rating": 2,
+      "category": "W",
       "image": "https://plus.unsplash.com/premium_photo-1690338237128-b32fedb44d55?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -405,6 +438,7 @@
       "saleDiscount": 39,
       "price": 67.85,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1583002083815-8c6305bd56a4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -417,6 +451,7 @@
       "saleDiscount": 43,
       "price": 66.74,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1556665132-c734fe400c85?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -429,6 +464,7 @@
       "saleDiscount": 24,
       "price": 61.13,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1609018997180-dc54c27521de?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -441,6 +477,7 @@
       "saleDiscount": 42,
       "price": 57.41,
       "rating": 2,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1578237421804-9674940e8b8e?q=80&w=2126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -453,6 +490,7 @@
       "saleDiscount": 29,
       "price": 75.1,
       "rating": 2,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1700152587587-4811cb979692?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -465,6 +503,7 @@
       "saleDiscount": 19,
       "price": 52.36,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1538888649860-8fb12eb67541?q=80&w=2025&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -477,6 +516,7 @@
       "saleDiscount": 24,
       "price": 47.51,
       "rating": 5,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1656453260540-268a06c29c73?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -489,6 +529,7 @@
       "saleDiscount": 44,
       "price": 20.61,
       "rating": 1,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1599346821185-6860259a6db7?q=80&w=2159&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -501,6 +542,7 @@
       "saleDiscount": 33,
       "price": 60.36,
       "rating": 2,
+      "category": "W",
       "image": "https://plus.unsplash.com/premium_photo-1671641797155-33169953802c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -513,6 +555,7 @@
       "saleDiscount": 12,
       "price": 13.87,
       "rating": 3,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1590082987948-0814c1a75aaf?q=80&w=1848&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -525,6 +568,7 @@
       "saleDiscount": 20,
       "price": 10.47,
       "rating": 5,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1662011966875-e4678fe1f7c3?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -537,6 +581,7 @@
       "saleDiscount": 49,
       "price": 41.01,
       "rating": 1,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1582897085656-c636d006a246?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -549,6 +594,7 @@
       "saleDiscount": 25,
       "price": 10.15,
       "rating": 5,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1697095098675-1d02496ef86a?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -561,6 +607,7 @@
       "saleDiscount": 22,
       "price": 46.23,
       "rating": 3,
+      "category": "M",
       "image": "https://images.unsplash.com/photo-1620679633378-e04715a9c106?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -573,6 +620,7 @@
       "saleDiscount": 47,
       "price": 67.68,
       "rating": 4,
+      "category": "W",
       "image": "https://plus.unsplash.com/premium_photo-1674498703584-dfcddb413a57?q=80&w=1929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
@@ -585,6 +633,7 @@
       "saleDiscount": 32,
       "price": 55.33,
       "rating": 4,
+      "category": "W",
       "image": "https://images.unsplash.com/photo-1539697808415-0873e6eb16dd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
