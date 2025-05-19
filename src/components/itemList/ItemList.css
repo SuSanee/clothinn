@@ -1,3 +1,33 @@
 .item-list {
-    column-count: 4;
+  column-count: 4;
+  column-gap: 2rem;
+}
+
+@media (max-width: 1200px) {
+  .item-list {
+    column-count: 3;
   }
+}
+@media (max-width: 900px) {
+  .item-list {
+    column-count: 2;
+  }
+}
+@media (max-width: 600px) {
+  .item-list {
+    column-count: 1;
+  }
+}
+
+.empty-message {
+  text-align: center;
+  padding: 2rem;
+  color: #666;
+  font-size: 1.2rem;
+}
+
+.item-card {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 2rem !important;
+}

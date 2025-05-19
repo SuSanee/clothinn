@@ -1,19 +1,36 @@
-import React, { useContext, useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import "./ItemDetail.css";
+import React, { useState } from "react";
+import { Link, useParams, useNavigate } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { addToCart } from "../../store/slices/cartSlice";
+import { toast } from "react-toastify";
 import items from "../../mockData/items.json";
-import { GlobalContext } from "../../context/GlobalState";
+import "./ItemDetail.css";
 
 const getItemDetail = (id) => items.filter((item) => item.id === id)[0];
 
 function ItemDetail() {
   const params = useParams();
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
   const itemId = parseInt(params?.id);
   const item = !!itemId && getItemDetail(itemId);
-  const { addItemToCartList, cart } = useContext(GlobalContext);
-  const [isAdded, setIsAdded] = useState(
-    cart.findIndex((c) => c.id === itemId) > -1
-  );
+  const cartItems = useSelector((state) => state.cart.items);
+  const isAdded = cartItems.some((c) => c.id === itemId);
+  const [adding, setAdding] = useState(false);
+
+  const handleAddToCart = () => {
+    if (isAdded) {
+      return;
+    }
+    setAdding(true);
+    dispatch(addToCart(item));
+    setTimeout(() => {
+      setAdding(false);
+      toast.success("Added to bag!");
+    }, 500);
+  };
+
+  if (!item) return <div>Item not found</div>;
 
   return (
     <div className="item-detail-container">
@@ -35,16 +52,19 @@ function ItemDetail() {
             <option value={"L"}> Select size (L)</option>
             <option value={"XL"}> Select size (XL)</option>
           </select>
-          <button
-            className="item-btn"
-            disabled={isAdded}
-            onClick={() => {
-              addItemToCartList(item);
-              setIsAdded(true);
-            }}
-          >
-            {isAdded ? <Link to="/cart">Go to Cart</Link> : "Add To bag"}
-          </button>
+          {isAdded ? (
+            <Link to="/cart">
+              <button className="item-btn">Go to Cart</button>
+            </Link>
+          ) : (
+            <button
+              className="item-btn"
+              disabled={adding}
+              onClick={handleAddToCart}
+            >
+              {adding ? "Adding..." : "Add To bag"}
+            </button>
+          )}
           <p className="item-description">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
