@@ -17,6 +17,17 @@ A simple, responsive, and scalable e-commerce website for selling clothes, built
 - **State Management**: React's Context API
 - **Deployment**: Netlify
 
+## Some Images
+![Screenshot 2025-06-09 002240](https://github.com/user-attachments/assets/3ac93916-e2c9-4500-b005-ddc1a79d8ca5)
+
+![Screenshot 2025-06-09 003839](https://github.com/user-attachments/assets/3b58b760-b144-4e4e-98a5-825d05d4e397)
+
+![Screenshot 2025-06-09 003900](https://github.com/user-attachments/assets/16c200d3-adb6-4e37-9d41-d2da6a85ed23)
+
+![Screenshot 2025-06-09 003926](https://github.com/user-attachments/assets/94bd5de7-fab6-4988-b67d-b40119f5b064)
+
+![Screenshot 2025-06-09 003945](https://github.com/user-attachments/assets/eda87be9-a920-4f71-b89a-a97ad8cfe4d8)
+
 ## Installation
 
 1. Clone the repository:
